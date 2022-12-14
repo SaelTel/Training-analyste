@@ -1,5 +1,5 @@
-#Mon premier dépot Git
-## Chose que je dois retenir:
+# Mon premier dépot Git
+## Chose que je dois absolument retenir:
 - git add
 - git commit
 - git pull
